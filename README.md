@@ -27,13 +27,13 @@
 	<img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
 	<img height="60" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" />
 	<img height="60" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" />
-	<img height="60" src="https://raw.githubusercontent.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/typescript/typescript-original.svg" />
+	<img height="60" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/typescript/typescript-original.svg" />
 	<img height="60" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" />
 	<img height="60" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" />
 	<img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" />
-	<img height="60" src="https://raw.githubusercontent.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/csharp/csharp-plain.svg" />
-	<img height="60" src="https://raw.githubusercontent.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/dot-net/dot-net-plain-wordmark.svg" />
-	<img height="60" src="https://raw.githubusercontent.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/azure/azure-original.svg" />
+	<img height="60" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/csharp/csharp-plain.svg" />
+	<img height="60" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/dot-net/dot-net-plain-wordmark.svg" />
+	<img height="60" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/azure/azure-original.svg" />
 </div>
 
 <div align="center">
